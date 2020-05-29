@@ -1,0 +1,21 @@
+c:\users\юлия\documents\visual studio 2013\Projects\qrcode_enter\qrcode_enter\bin\Debug\qrcode_enter.exe.config
+c:\users\юлия\documents\visual studio 2013\Projects\qrcode_enter\qrcode_enter\bin\Debug\qrcode_enter.exe
+c:\users\юлия\documents\visual studio 2013\Projects\qrcode_enter\qrcode_enter\bin\Debug\qrcode_enter.pdb
+c:\users\юлия\documents\visual studio 2013\Projects\qrcode_enter\qrcode_enter\obj\Debug\qrcode_enter.Form1.resources
+c:\users\юлия\documents\visual studio 2013\Projects\qrcode_enter\qrcode_enter\obj\Debug\qrcode_enter.Properties.Resources.resources
+c:\users\юлия\documents\visual studio 2013\Projects\qrcode_enter\qrcode_enter\obj\Debug\qrcode_enter.csproj.GenerateResource.Cache
+c:\users\юлия\documents\visual studio 2013\Projects\qrcode_enter\qrcode_enter\obj\Debug\qrcode_enter.exe
+c:\users\юлия\documents\visual studio 2013\Projects\qrcode_enter\qrcode_enter\obj\Debug\qrcode_enter.pdb
+c:\users\юлия\documents\visual studio 2013\Projects\qrcode_enter\qrcode_enter\bin\Debug\MessagingToolkit.QRCode.dll
+c:\users\юлия\documents\visual studio 2013\Projects\qrcode_enter\qrcode_enter\obj\Debug\qrcode_enter.csprojResolveAssemblyReference.cache
+D:\Download\qrcode_enter\qrcode_enter\qrcode_enter\bin\Debug\qrcode_enter.exe.config
+D:\Download\qrcode_enter\qrcode_enter\qrcode_enter\bin\Debug\qrcode_enter.exe
+D:\Download\qrcode_enter\qrcode_enter\qrcode_enter\bin\Debug\qrcode_enter.pdb
+D:\Download\qrcode_enter\qrcode_enter\qrcode_enter\obj\Debug\qrcode_enter.csprojAssemblyReference.cache
+D:\Download\qrcode_enter\qrcode_enter\qrcode_enter\obj\Debug\qrcode_enter.Form1.resources
+D:\Download\qrcode_enter\qrcode_enter\qrcode_enter\obj\Debug\qrcode_enter.Properties.Resources.resources
+D:\Download\qrcode_enter\qrcode_enter\qrcode_enter\obj\Debug\qrcode_enter.csproj.GenerateResource.cache
+D:\Download\qrcode_enter\qrcode_enter\qrcode_enter\obj\Debug\qrcode_enter.csproj.CoreCompileInputs.cache
+D:\Download\qrcode_enter\qrcode_enter\qrcode_enter\obj\Debug\qrcode_enter.csproj.CopyComplete
+D:\Download\qrcode_enter\qrcode_enter\qrcode_enter\obj\Debug\qrcode_enter.exe
+D:\Download\qrcode_enter\qrcode_enter\qrcode_enter\obj\Debug\qrcode_enter.pdb
